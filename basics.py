@@ -1,0 +1,1 @@
+['0 Face\n', '1 Hat\n', '2 String\n']
